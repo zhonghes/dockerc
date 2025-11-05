@@ -68,4 +68,3 @@ $ zig build -Doptimize=ReleaseSafe -Dtarget=aarch64-linux-musl
 [5]: https://github.com/NilsIrl/zig/tree/nils-dockerc-version
 [6]: https://github.com/ziglang/zig/pull/21092
 
-## 2025年11月5日
